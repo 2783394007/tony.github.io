@@ -3,11 +3,11 @@
   <title>tony</title>
   
   
-  <link href="https://github.com/Tony-hurry/tony.github.io.git/atom.xml" rel="self"/>
+  <link href="https://tony-hurry.github.io/tony.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/Tony-hurry/tony.github.io.git/"/>
+  <link href="https://tony-hurry.github.io/tony.github.io/"/>
   <updated>2022-09-11T00:22:54.000Z</updated>
-  <id>https://github.com/Tony-hurry/tony.github.io.git/</id>
+  <id>https://tony-hurry.github.io/tony.github.io/</id>
   
   <author>
     <name>Tony</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Android high learning</title>
-    <link href="https://github.com/Tony-hurry/tony.github.io.git/2022/09/11/android/"/>
-    <id>https://github.com/Tony-hurry/tony.github.io.git/2022/09/11/android/</id>
+    <link href="https://tony-hurry.github.io/tony.github.io/2022/09/11/android/"/>
+    <id>https://tony-hurry.github.io/tony.github.io/2022/09/11/android/</id>
     <published>2022-09-11T01:52:11.000Z</published>
     <updated>2022-09-11T00:22:54.000Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="学习安卓，突破自我" scheme="https://github.com/Tony-hurry/tony.github.io.git/tags/%E5%AD%A6%E4%B9%A0%E5%AE%89%E5%8D%93%EF%BC%8C%E7%AA%81%E7%A0%B4%E8%87%AA%E6%88%91/"/>
+    <category term="学习安卓，突破自我" scheme="https://tony-hurry.github.io/tony.github.io/tags/%E5%AD%A6%E4%B9%A0%E5%AE%89%E5%8D%93%EF%BC%8C%E7%AA%81%E7%A0%B4%E8%87%AA%E6%88%91/"/>
     
   </entry>
   
   <entry>
     <title>Linux base</title>
-    <link href="https://github.com/Tony-hurry/tony.github.io.git/2022/09/11/Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/"/>
-    <id>https://github.com/Tony-hurry/tony.github.io.git/2022/09/11/Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</id>
+    <link href="https://tony-hurry.github.io/tony.github.io/2022/09/11/Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://tony-hurry.github.io/tony.github.io/2022/09/11/Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</id>
     <published>2022-09-11T01:52:11.000Z</published>
     <updated>2022-09-11T00:22:56.000Z</updated>
     
@@ -56,14 +56,14 @@
     
     
     
-    <category term="Linux学习" scheme="https://github.com/Tony-hurry/tony.github.io.git/tags/Linux%E5%AD%A6%E4%B9%A0/"/>
+    <category term="Linux学习" scheme="https://tony-hurry.github.io/tony.github.io/tags/Linux%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/Tony-hurry/tony.github.io.git/2022/09/11/hello-world/"/>
-    <id>https://github.com/Tony-hurry/tony.github.io.git/2022/09/11/hello-world/</id>
+    <link href="https://tony-hurry.github.io/tony.github.io/2022/09/11/hello-world/"/>
+    <id>https://tony-hurry.github.io/tony.github.io/2022/09/11/hello-world/</id>
     <published>2022-09-10T23:33:21.731Z</published>
     <updated>2022-09-10T23:33:21.731Z</updated>
     
@@ -82,8 +82,8 @@
   
   <entry>
     <title>python-baselearning</title>
-    <link href="https://github.com/Tony-hurry/tony.github.io.git/2022/08/29/python-baselearning/"/>
-    <id>https://github.com/Tony-hurry/tony.github.io.git/2022/08/29/python-baselearning/</id>
+    <link href="https://tony-hurry.github.io/tony.github.io/2022/08/29/python-baselearning/"/>
+    <id>https://tony-hurry.github.io/tony.github.io/2022/08/29/python-baselearning/</id>
     <published>2022-08-28T23:06:27.000Z</published>
     <updated>2022-08-29T01:55:12.000Z</updated>
     
@@ -98,14 +98,14 @@
     
     
     
-    <category term="人生苦短，我用python" scheme="https://github.com/Tony-hurry/tony.github.io.git/tags/%E4%BA%BA%E7%94%9F%E8%8B%A6%E7%9F%AD%EF%BC%8C%E6%88%91%E7%94%A8python/"/>
+    <category term="人生苦短，我用python" scheme="https://tony-hurry.github.io/tony.github.io/tags/%E4%BA%BA%E7%94%9F%E8%8B%A6%E7%9F%AD%EF%BC%8C%E6%88%91%E7%94%A8python/"/>
     
   </entry>
   
   <entry>
     <title>vue-baselearning</title>
-    <link href="https://github.com/Tony-hurry/tony.github.io.git/2022/08/27/vue-baselearning/"/>
-    <id>https://github.com/Tony-hurry/tony.github.io.git/2022/08/27/vue-baselearning/</id>
+    <link href="https://tony-hurry.github.io/tony.github.io/2022/08/27/vue-baselearning/"/>
+    <id>https://tony-hurry.github.io/tony.github.io/2022/08/27/vue-baselearning/</id>
     <published>2022-08-27T01:52:11.000Z</published>
     <updated>2022-09-11T00:18:26.000Z</updated>
     
@@ -120,7 +120,7 @@
     
     
     
-    <category term="学习vue去乘风破浪" scheme="https://github.com/Tony-hurry/tony.github.io.git/tags/%E5%AD%A6%E4%B9%A0vue%E5%8E%BB%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA/"/>
+    <category term="学习vue去乘风破浪" scheme="https://tony-hurry.github.io/tony.github.io/tags/%E5%AD%A6%E4%B9%A0vue%E5%8E%BB%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA/"/>
     
   </entry>
   
